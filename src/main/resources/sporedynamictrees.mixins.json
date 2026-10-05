@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.thatsoulyguy.sporedynamictrees.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "requiredFeatures": ["INJECTORS_IN_INTERFACE_MIXINS"],
+  "mixins": [
+    "spore.FoliageSpreadMixin",
+    "spore.GargoylMixin",
+    "spore.GroberMixin",
+    "spore.HowitzerMixin",
+    "spore.HohlfresserMixin",
+    "spore.BruteMixin",
+    "spore.BusserMixin",
+    "spore.OgreMixin",
+    "spore.InfestedConstructMixin",
+    "spore.ThrownBlockProjectileMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixinextras": {
+    "minVersion": "0.5.0"
+  }
+}

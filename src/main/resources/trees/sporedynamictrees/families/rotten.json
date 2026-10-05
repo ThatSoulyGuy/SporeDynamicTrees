@@ -1,0 +1,9 @@
+{
+    "common_leaves": "sporedynamictrees:rotten",
+    "common_species": "sporedynamictrees:rotten",
+    "primitive_log": "spore:rotten_log",
+    "max_branch_radius": 24,
+    "generate_stripped_branch": false,
+    "generate_surface_root": false,
+    "max_signal_depth": 64
+}

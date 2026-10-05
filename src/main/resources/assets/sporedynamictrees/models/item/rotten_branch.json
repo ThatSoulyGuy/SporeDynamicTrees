@@ -1,0 +1,7 @@
+{
+    "parent": "dynamictrees:item/branch",
+    "textures": {
+        "bark": "spore:block/rotten_wood",
+        "rings": "spore:block/rotten_wood_top"
+    }
+}

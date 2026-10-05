@@ -1,0 +1,8 @@
+{
+    "sources": [
+        {
+            "type": "dynamictrees:thick_branch_rings",
+            "resource": "spore:block/rotten_wood_top"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "block.sporedynamictrees.rotten_branch": "Decayed Tree Branch",
+    "species.sporedynamictrees.rotten": "Decayed",
+
+    "sporedynamictrees.configuration.title": "Spore Dynamic Trees Configuration",
+    "sporedynamictrees.configuration.section.sporedynamictrees.common.toml": "Common Settings",
+    "sporedynamictrees.configuration.section.sporedynamictrees.common.toml.title": "Spore Dynamic Trees Common Settings",
+    "sporedynamictrees.configuration.minLiftableBranchRadius": "Minimum Liftable Branch Radius",
+    "sporedynamictrees.configuration.minLiftableBranchRadius.tooltip": "Spore mobs can only lift and throw Dynamic Trees branches at least this thick (8 is a full block). Liftable branches are thrown as their tree's log. Thinner branches, trunk shells, roots and rooty soil are never lifted.",
+    "sporedynamictrees.configuration.maxRotTreeSize": "Maximum Rotting Tree Size",
+    "sporedynamictrees.configuration.maxRotTreeSize.tooltip": "The largest Dynamic Trees tree, in branch blocks, that Spore's infection can rot in one go. Larger trees are left untouched rather than half-rotted."
+}

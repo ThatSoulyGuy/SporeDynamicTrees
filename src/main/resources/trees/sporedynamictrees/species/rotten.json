@@ -1,0 +1,12 @@
+{
+    "family": "sporedynamictrees:rotten",
+    "leaves_properties": "sporedynamictrees:rotten",
+    "generate_seed": false,
+    "generate_sapling": false,
+    "growth_rate": 0.0,
+    "max_branch_radius": 24,
+    "does_rot": false,
+    "can_bone_meal_tree": false,
+    "drop_seeds": false,
+    "acceptable_soils": ["dirt_like", "mud_like", "fungus_like", "nether_soil_like"]
+}

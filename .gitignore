@@ -1,0 +1,31 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+eclipse
+
+# idea
+out/
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# gradle
+build/
+.gradle/
+
+# runs
+run/
+runs/
+run-data/
+
+# data generator caches
+src/generated/**/.cache/
+
+/spore_*.jar
+/dynamictrees-*.jar
+/libs/
